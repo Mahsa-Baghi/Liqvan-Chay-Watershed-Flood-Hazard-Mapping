@@ -102,3 +102,13 @@ The results reflect the environmental datasets and modelling approach used at th
 
 **Author:** Mahsa Baghi  
 GIS & Remote Sensing Specialist
+## Project Maps
+
+### 1. Study Area Map
+<img src="maps/01_Study_Area_Map.jpg" width="450" alt="Study Area Map">
+
+### 2. Environmental Factors Analysis
+<img src="maps/02_Environmental_Factors_Maps.jpg" width="900" alt="Eight Environmental Factors Maps">
+
+### 3. Final Flood Vulnerability Map
+<img src="maps/03_Final_Flood_Vulnerability_Map.jpg" width="500" alt="Final Flood Vulnerability Map">
