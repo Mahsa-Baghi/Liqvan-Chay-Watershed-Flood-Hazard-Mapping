@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project focuses on assessing and mapping flood susceptibility in the Liqvan Chay Watershed using Geographic Information Systems (GIS), remote sensing, and multi-criteria spatial analysis.
+This project focuses on assessing and mapping flood susceptibility in the Liqvan Chay Watershed, East Azerbaijan Province, Iran, using Geographic Information Systems (GIS), remote sensing, and multi-criteria spatial analysis.
 
 Environmental, hydrological, and topographical datasets were integrated to assess flood susceptibility and identify areas with different levels of potential flood hazard.
 
