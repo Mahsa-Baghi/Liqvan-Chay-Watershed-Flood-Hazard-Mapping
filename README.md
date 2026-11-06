@@ -1,4 +1,4 @@
-# GIS-Based Flood Hazard Mapping | Basmenj
+# GIS-Based Flood Hazard Mapping | Liqvan Chay Watershed
 
 **GIS & Remote Sensing | Environmental Hazard Assessment | Spatial Analysis**
  
